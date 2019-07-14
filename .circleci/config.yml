@@ -1,0 +1,21 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/golang:1.12.6
+    working_directory: ~/dream_valley/testsite
+    steps:
+      - add_ssh_keys:
+          fingerprints:
+            - "f7:87:82:fc:b9:90:5d:8f:70:8a:44:3b:15:13:ea:27"
+      - checkout
+      - run: bash deploy.sh
+
+workflows:
+  version: 2
+  main:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
