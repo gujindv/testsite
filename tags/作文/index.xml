@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>作文 on 心声联盟</title>
+    <link>http://localhost:1313/tags/%E4%BD%9C%E6%96%87/</link>
+    <description>Recent content in 作文 on 心声联盟</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 10 Jul 2019 11:48:07 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E4%BD%9C%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>序</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Wed, 10 Jul 2019 11:48:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>&lt;p&gt;周记的意义不仅仅是完成作业或是练文笔。时间在流逝，大脑承载不住太多的记忆，我们会淡忘许多大脑深处的往事。而周记中的言语会唤起我们对往事的回忆，使我们能倍感亲切。周记就是我成长路上的一个一个脚印，是我对学生时代的记忆，是我的青春纪念册。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
