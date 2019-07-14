@@ -1,45 +1,45 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://gujindv.github.io/testsite/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://gujindv.github.io/testsite/post/</loc>
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://gujindv.github.io/testsite/tags/</loc>
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E4%BD%9C%E6%96%87/</loc>
+    <loc>https://gujindv.github.io/testsite/tags/%E4%BD%9C%E6%96%87/</loc>
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/my-first-post/</loc>
+    <loc>https://gujindv.github.io/testsite/post/my-first-post/</loc>
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://gujindv.github.io/testsite/</loc>
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://gujindv.github.io/testsite/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gujindv.github.io/testsite/categories/</loc>
     <priority>0</priority>
   </url>
   
