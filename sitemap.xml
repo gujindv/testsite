@@ -3,13 +3,38 @@
   
   <url>
     <loc>https://gujindv.github.io/testsite/post/</loc>
-    <lastmod>2019-07-10T11:48:07+08:00</lastmod>
+    <lastmod>2019-07-15T15:11:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gujindv.github.io/testsite/tags/</loc>
-    <lastmod>2019-07-10T11:48:07+08:00</lastmod>
+    <lastmod>2019-07-15T15:11:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gujindv.github.io/testsite/post/work_today/</loc>
+    <lastmod>2019-07-15T15:11:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://gujindv.github.io/testsite/tags/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2019-07-15T15:11:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gujindv.github.io/testsite/</loc>
+    <lastmod>2019-07-15T15:11:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gujindv.github.io/testsite/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2019-07-15T15:11:00+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,12 +49,6 @@
     <lastmod>2019-07-10T11:48:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://gujindv.github.io/testsite/</loc>
-    <lastmod>2019-07-10T11:48:07+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

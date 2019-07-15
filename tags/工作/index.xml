@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工作 on 心声联盟</title>
+    <link>https://gujindv.github.io/testsite/tags/%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 工作 on 心声联盟</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Mon, 15 Jul 2019 15:11:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://gujindv.github.io/testsite/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Work_today</title>
+      <link>https://gujindv.github.io/testsite/post/work_today/</link>
+      <pubDate>Mon, 15 Jul 2019 15:11:00 +0800</pubDate>
+      
+      <guid>https://gujindv.github.io/testsite/post/work_today/</guid>
+      <description>&lt;p&gt;今天的工作是什么&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
